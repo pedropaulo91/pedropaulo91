@@ -18,6 +18,4 @@ Click [here](https://pedropaulo91.github.io/curriculo/) to see my resume web pag
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-<br/>
-
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedropaulo91&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)|
