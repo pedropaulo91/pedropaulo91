@@ -4,7 +4,7 @@
 I'm a software developer with more than 3 years of experience. I currently work as junior C# web developer at [Alterdata Software](https://www.alterdata.com.br/). 
 
 Click [here](https://pedropaulo91.github.io/curriculo/) to see my resume web page to know more about me.  
-<div>
+</div>
 
 ### Languages, frameworks and tools I work with:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
