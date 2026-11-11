@@ -1,9 +1,11 @@
 # Hello everyone! I'm Pedro ✌️
 <div align="center">
 
-I'm a software developer with more than 3 years of experience.
+I'm a full stack developer with 5+ years of experience building and maintaining business software, from ERP systems to Web APIs.
 
-Click [here](https://pedropaulo91.github.io/curriculo/) to see my resume web page to know more about me.  
+On the back end I work with C#, .NET and SQL Server; on the front end, with Vue.js, JavaScript and Node.js. I've worked on REST API maintenance, WCF to .NET Core migration, and new modules for Vue.js web applications.
+
+See my [resume](https://pedropaulo91.github.io/curriculo/) or reach me on [LinkedIn](https://www.linkedin.com/in/pedroopauloo/).
 
 ### Languages, frameworks and tools I work with:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
