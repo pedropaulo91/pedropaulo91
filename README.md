@@ -3,10 +3,6 @@
 
 I'm a full stack developer with 5+ years of experience building and maintaining business software, from ERP systems to Web APIs.
 
-On the back end I work with C#, .NET and SQL Server; on the front end, with Vue.js, JavaScript and Node.js. I've worked on REST API maintenance, WCF to .NET Core migration, and new modules for Vue.js web applications.
-
-See my [resume](https://pedropaulo91.github.io/curriculo/) or reach me on [LinkedIn](https://www.linkedin.com/in/pedroopauloo/).
-
 ### Languages, frameworks and tools I work with:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
